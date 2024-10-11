@@ -48,6 +48,7 @@ https://github.com/CursedPrograms/arcore-android-sdk
 ## Documentation
 - [OpenCV ArUco Detection Tutorial](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
 - [PyOpenGL on PyPI](https://pypi.org/project/PyOpenGL/)
+- https://www.artoolworks.com/community/osgart/download.html
 
 <br>
 <div align="center">
