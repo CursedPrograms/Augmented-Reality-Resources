@@ -49,7 +49,10 @@ https://github.com/CursedPrograms/arcore-android-sdk
 - [OpenCV ArUco Detection Tutorial](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
 - [PyOpenGL on PyPI](https://pypi.org/project/PyOpenGL/)
 - https://www.artoolworks.com/community/osgart/download.html
+
+## Three.js Documentation
 - https://ar-js-org.github.io/AR.js-Docs/
+- https://github.com/artoolkitx/jsartoolkit5
 
 <br>
 <div align="center">
