@@ -20,7 +20,7 @@
   </div>
 <br>
 
-# Augmented Reality Source
+# Augmented-Reality-Resources
 
 ## ARCore
 https://github.com/CursedPrograms/arcore-android-sdk
