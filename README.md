@@ -6,10 +6,6 @@
   </a>
 </div>
   <br>
-
-
-
-
 <div align="center"> 
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/>     
 </div>
@@ -38,7 +34,7 @@
 - [ARToolkit Unity Batch Template](https://github.com/CursedPrograms/ARToolkit-Unity-Batch-Template)
 - [ARToolkit Modern Devices](https://github.com/CursedPrograms/ARToolkit-Modern-Devices)
 - [ARToolkit Unity Template](https://github.com/CursedPrograms/ARToolkit-Unity-Template)
-- [ARUnityX](https://github.com/CursedPrograms/arunityx)
+- [ARUnityX](https://github.com/CursedPrograms/arunityx) (Fork)
 
 ## Three.js
 - [three.js-ar.js](https://github.com/CursedPrograms/three.js-ar.js)
