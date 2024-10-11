@@ -27,6 +27,10 @@
 - [Unity AR Foundation Template](https://github.com/CursedPrograms/Unity-ARFoundation-Template)
 - [Zappar Unity Template](https://github.com/CursedPrograms/Zappar-Unity-Template)
 - [3D AR Gemini](https://github.com/CursedPrograms/3D-AR-Gemini)
+- [ARToolkit Unity Batch Template](https://github.com/CursedPrograms/ARToolkit-Unity-Batch-Template)
+
+## Three.js
+- [three.js-ar.js](https://github.com/CursedPrograms/three.js-ar.js)
 
 <br>
 <div align="center">
