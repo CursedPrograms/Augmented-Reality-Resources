@@ -16,19 +16,17 @@
 </div>
 <br>
 
-# Augmented-Reality-Source
+# Augmented Reality Source
 
 ## Python
-
-https://github.com/CursedPrograms/OpenGL-Wheels-3.1.7-cp312-Archive
-https://github.com/CursedPrograms/AR-Python-OpenCV
+- [OpenGL Wheels 3.1.7](https://github.com/CursedPrograms/OpenGL-Wheels-3.1.7-cp312-Archive)
+- [AR Python OpenCV](https://github.com/CursedPrograms/AR-Python-OpenCV)
 
 ## Unity
-
-https://github.com/CursedPrograms/ARFoundation-PlaceObject
-https://github.com/CursedPrograms/Unity-ARFoundation-Template
-https://github.com/CursedPrograms/Zappar-Unity-Template
-https://github.com/CursedPrograms/3D-AR-Gemini
+- [AR Foundation Place Object](https://github.com/CursedPrograms/ARFoundation-PlaceObject)
+- [Unity AR Foundation Template](https://github.com/CursedPrograms/Unity-ARFoundation-Template)
+- [Zappar Unity Template](https://github.com/CursedPrograms/Zappar-Unity-Template)
+- [3D AR Gemini](https://github.com/CursedPrograms/3D-AR-Gemini)
 
 <br>
 <div align="center">
