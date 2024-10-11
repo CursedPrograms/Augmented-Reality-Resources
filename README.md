@@ -22,7 +22,7 @@
 
 # Augmented Reality Source
 
-##ARCore
+## ARCore
 https://github.com/CursedPrograms/arcore-android-sdk
 
 ## Python
