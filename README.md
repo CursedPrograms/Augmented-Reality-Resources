@@ -32,7 +32,7 @@
 - [Zappar Unity Template](https://github.com/CursedPrograms/Zappar-Unity-Template)
 - [3D AR Gemini](https://github.com/CursedPrograms/3D-AR-Gemini)
 - [ARToolkit Unity Batch Template](https://github.com/CursedPrograms/ARToolkit-Unity-Batch-Template)
-- [ARToolkit Modern Devices](https://github.com/CursedPrograms/ARToolkit-Modern-Devices)
+- [ARToolkit Modern Devices](https://github.com/CursedPrograms/ARToolkit-Modern-Devices) (Not Working)
 - [ARToolkit Unity Template](https://github.com/CursedPrograms/ARToolkit-Unity-Template)
 - [ARUnityX](https://github.com/CursedPrograms/arunityx) (Fork)
 
