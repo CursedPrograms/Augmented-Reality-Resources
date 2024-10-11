@@ -28,6 +28,7 @@ https://github.com/CursedPrograms/arcore-android-sdk
 ## Python
 - [OpenGL Wheels 3.1.7](https://github.com/CursedPrograms/OpenGL-Wheels-3.1.7-cp312-Archive)
 - [AR Python OpenCV](https://github.com/CursedPrograms/AR-Python-OpenCV)
+- https://github.com/CursedPrograms/OpenCV-ColourDetection
 
 ## Unity
 - [AR Foundation Place Object](https://github.com/CursedPrograms/ARFoundation-PlaceObject)
