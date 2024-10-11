@@ -41,7 +41,7 @@ https://github.com/CursedPrograms/arcore-android-sdk
 - [ARUnityX](https://github.com/CursedPrograms/arunityx) (Fork)
 
 ## Three.js
-- [three.js-ar.js](https://github.com/CursedPrograms/three.js-ar.js)
+- [three.js-ar.js-flask](https://github.com/CursedPrograms/three.js-ar.js-flask)
 
 ## Additional
 - [ARToolkit 5](https://github.com/CursedPrograms/artoolkit5)
