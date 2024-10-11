@@ -28,9 +28,15 @@
 - [Zappar Unity Template](https://github.com/CursedPrograms/Zappar-Unity-Template)
 - [3D AR Gemini](https://github.com/CursedPrograms/3D-AR-Gemini)
 - [ARToolkit Unity Batch Template](https://github.com/CursedPrograms/ARToolkit-Unity-Batch-Template)
+- [ARToolkit Modern Devices](https://github.com/CursedPrograms/ARToolkit-Modern-Devices)
+- [ARToolkit Unity Template](https://github.com/CursedPrograms/ARToolkit-Unity-Template)
+- [ARUnityX](https://github.com/CursedPrograms/arunityx)
 
 ## Three.js
 - [three.js-ar.js](https://github.com/CursedPrograms/three.js-ar.js)
+
+## Additional
+- [ARToolkit 5](https://github.com/CursedPrograms/artoolkit5)
 
 <br>
 <div align="center">
