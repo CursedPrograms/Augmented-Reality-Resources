@@ -40,8 +40,9 @@ https://github.com/CursedPrograms/arcore-android-sdk
 - [ARToolkit Unity Template](https://github.com/CursedPrograms/ARToolkit-Unity-Template)
 - [ARUnityX](https://github.com/CursedPrograms/arunityx) (Fork)
 
-## Three.js
+## ar.js
 - [three.js-ar.js-flask](https://github.com/CursedPrograms/three.js-ar.js-flask)
+- https://augmented-reality-js.netlify.app/
 
 ## Additional
 - [ARToolkit 5](https://github.com/CursedPrograms/artoolkit5)
@@ -51,7 +52,7 @@ https://github.com/CursedPrograms/arcore-android-sdk
 - [PyOpenGL on PyPI](https://pypi.org/project/PyOpenGL/)
 - https://www.artoolworks.com/community/osgart/download.html
 
-## Three.js Documentation
+## ar.js Documentation
 - https://ar-js-org.github.io/AR.js-Docs/
 - https://github.com/artoolkitx/jsartoolkit5
 
